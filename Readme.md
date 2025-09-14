@@ -1,7 +1,7 @@
-Simple project for study makefiles
+BASEDGOD
+CACHALOT
+JESSKO812
 =====================
-
-Примеры для обучения использованию make-файлов
 
 _example-1_
 ---------------
