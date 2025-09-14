@@ -1,6 +1,4 @@
-BASEDGOD
-CACHALOT
-JESSKO812
+Филимонов Андрей 24ПТ2
 =====================
 
 _example-1_
